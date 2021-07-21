@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Symbols_Extra")(type "KiCad")(uri "${KIPRJMOD}/modules/Symbols_Extra.pretty")(options "")(descr ""))
+)
